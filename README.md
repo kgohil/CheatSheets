@@ -5,3 +5,5 @@
 [Python Cheatsheet]
 
 [Java Cheatsheet]
+
+[Scala Cheatsheet](https://github.com/kgohil/ScalaJupyterTutorial/blob/master/Scala%20Tutorial.ipynb)
